@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>luminous_app</finalName>
+    <finalName>samsung_app</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
